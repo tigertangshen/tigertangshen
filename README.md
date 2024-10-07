@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiger
+- 👋 Hi, I’m @tigertangshen
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...SD&MJ
 - 💞️ I’m looking to collaborate on ...
